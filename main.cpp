@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
- int n = 100;
+ int n = 10;
  
 }
